@@ -1,8 +1,14 @@
-# React + Vite
+# Учение
+Бюро прикладной разработки имени Райана Гослинга
+![](https://github.com/qurle/gosling-fron/blob/master/src/assets/Cover.png?raw=true)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Симулятор рабочих ситуаций, который учит команды принимать решения в условиях ограниченных ресурсов.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Запуск
+```
+npm i
+npm run dev
+```
+Запустить локалхост на том порте, который выдаст консоль
+##
+Автор кода — [Никита Вьясков](https://vk.com/fargrab)
