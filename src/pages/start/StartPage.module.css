@@ -1,0 +1,26 @@
+.StartPage {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 32px;
+    max-width: 540px;
+    margin: 0 auto;
+    height: 683px;
+}
+.StartPage_Button {
+    height: 71px;
+    padding: 24px 40px;
+    box-sizing: border-box;
+    color: var(--vkui--color_text_contrast);
+    font-feature-settings: 'clig' off, 'liga' off;
+    /* Button Large */
+    font-family: "VK Sans Display Expanded";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    border-radius: 12px;
+    border: 1px rgba(82, 158, 244, 0.50) solid;
+    backdrop-filter: blur(32px);
+    background: rgba(0, 0, 0, 0.20);
+}

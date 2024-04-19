@@ -1,0 +1,15 @@
+.WelcomeText {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+.WelcomeText_H1 {
+    font-family: "VK Sans Display Expanded";
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+}
+.WelcomeText_P {
+
+}

@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "VK Sans Display Expanded";
+    src: url("./assets/fonts/VK_Sans_Display_Expanded_DemiBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "VK Sans Display Expanded";
+    src: url("./assets/fonts/VK_Sans_Display_Expanded_Medium.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Digital Numbers";
+    src: url("./assets/fonts/DigitalNumbers-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 500;
+}
