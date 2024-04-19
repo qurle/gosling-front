@@ -1,7 +1,7 @@
 # Учение
 Бюро прикладной разработки имени Райана Гослинга
 
-![](https://github.com/qurle/gosling-front/blob/master/src/assets/Cover.png?raw=true)
+![](https://github.com/qurle/gosling-front/blob/main/src/assets/Cover.png?raw=true)
 
 Симулятор рабочих ситуаций, который учит команды принимать решения в условиях ограниченных ресурсов.
 
